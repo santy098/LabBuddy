@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "382856609438",
+    "firebase_url": "https://labbuddy-4ad3b.firebaseio.com",
+    "project_id": "labbuddy-4ad3b",
+    "storage_bucket": "labbuddy-4ad3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382856609438:android:4498b9698940168e23058f",
+        "android_client_info": {
+          "package_name": "com.example.labbuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382856609438-m4teseem85av5tdfv8vskomljp57embe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.labbuddy",
+            "certificate_hash": "47224268df02e74ee11859fd30948312e67bb4cf"
+          }
+        },
+        {
+          "client_id": "382856609438-bhbkjumu7af0dc56m7he2kr0qpfem04a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuJ_xF55TfhBqq-TWa5g7zKD_3zxvhlzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382856609438-bhbkjumu7af0dc56m7he2kr0qpfem04a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
